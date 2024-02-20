@@ -1,5 +1,9 @@
 # Validation de Formulaire en JavaScript
 
+<p align="center">
+  <img width="1024" height="385"alt="image todo list" src="https://i.postimg.cc/zG5KB0dK/pngwing-com-1.png" style="width:50%">
+</p>
+
 ## Description du Projet
 
 Ce projet implémente un formulaire d'inscription robuste en JavaScript pour la validation côté client. Le formulaire inclut des champs pour le nom d'utilisateur, le nom, le prénom, l'email, la date de naissance, le mot de passe, la confirmation du mot de passe, et le sexe. Il utilise des validations variées pour assurer la saisie de données correctes et sécurisées.
@@ -51,7 +55,3 @@ Les contributions sont bienvenues. Suivez ces étapes pour contribuer :
 2. Créez une nouvelle branche (`git checkout -b feature/fooBar`).
 3. Faites vos modifications.
 4. Soumettez une pull request.
-
-## Licence
-
-Sous licence MIT. Voir `LICENSE` pour plus de détails.
